@@ -1,3 +1,5 @@
 # Qt5_21_ErrorHandling_CustomHandling
 
-#SourceCode to be added soon.
+#Error Handling by custom handling discussed and
+
+#SourceCode added
